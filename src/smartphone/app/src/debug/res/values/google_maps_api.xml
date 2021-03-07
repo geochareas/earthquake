@@ -1,0 +1,23 @@
+<resources>
+    <!--
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=32:B6:F6:00:82:22:D8:AA:B8:2E:98:DD:BB:6F:B5:E8:96:20:A6:E7%3Bcom.chareas.earthquake
+
+    You can also add your credentials to an existing key, using these values:
+
+    Package name:
+    com.chareas.earthquake
+
+    SHA-1 certificate fingerprint:
+    32:B6:F6:00:82:22:D8:AA:B8:2E:98:DD:BB:6F:B5:E8:96:20:A6:E7
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyBxbfDDkPWxQa4TAHaD6_hJdMaB3YZnI68</string>
+</resources>

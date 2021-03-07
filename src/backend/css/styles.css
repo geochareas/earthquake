@@ -1,0 +1,38 @@
+/* Optional: Makes the sample page fill the window. */
+html,
+body {
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+}
+
+/* Always set the map height explicitly to define the size of the div
+* element that contains the map. */
+#map {
+  height: 90vh;
+  width: 100%;
+}
+
+/* Scrollbar */
+.sidebar::-webkit-scrollbar {
+  margin-right: 3.5rem !important;
+  width: .45rem;
+}
+
+.sidebar::-webkit-scrollbar-thumb {
+  background-color: #1E88E5;
+  border-radius: 3px;
+}
+
+.sidebar::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.status-icon {
+  width: 2rem;
+  height: 2rem;
+}
+
+footer {
+  min-height: 10vh;
+}

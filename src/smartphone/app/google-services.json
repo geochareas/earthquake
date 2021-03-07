@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "439364824767",
+    "firebase_url": "https://qwerty-aegean-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "qwerty-aegean",
+    "storage_bucket": "qwerty-aegean.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439364824767:android:b8d94d0e5490c009bfe00a",
+        "android_client_info": {
+          "package_name": "com.chareas.earthquake"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "439364824767-r0g381gr5s9721qblffsq2i8hrc34fcb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chareas.earthquake",
+            "certificate_hash": "32b6f6008222d8aab82e98ddbb6fb5e89620a6e7"
+          }
+        },
+        {
+          "client_id": "439364824767-23rp8e9g6tub2sm9442f5doeu40jp30b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPMq9wOJG8CY7yGaEtGNX4F27d3yE1Nz4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "439364824767-23rp8e9g6tub2sm9442f5doeu40jp30b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
